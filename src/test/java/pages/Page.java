@@ -7,7 +7,8 @@ public class Page {
 
     public Page() {
         PageFactory.initElements(Driver.getDriver(), this);
-        //
+        // erol branchinde birseyler yazdim
+
     }
 
 
